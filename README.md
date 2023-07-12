@@ -7,22 +7,12 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-<h3 align="center">Projetos Estudo</h3>
-  <img src="images/logo.jpg" \>
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Conteúdo</summary>
-  <ol>
-    <li>
-      <a href="#Sobre-o-projeto">Sobre o Projeto</a>
-    </li>
-   <li><a href="#Tecnologias">Tecnologias</a></li>
-    <li><a href="#Branches">Branches</a></li>
-    <li><a href="#contatos">Contatos</a></li>
-    <li><a href="#Agradecimentos">Agradecimentos</a></li>
-  </ol>
-</details>
 
+  <p align="center">
+  <img src="images/logoCygnusTech.png" width="50%" \>
+  </p>
+
+<h1 align="center">Projeto XXX</h3>
 
 <!-- ABOUT THE PROJECT -->
 
@@ -34,13 +24,15 @@ O intuito do projeto é criar uma lista de tarefas onde o usuário pode adiciona
 
 <h4>Title</h4>
 Description
+<p align="center>
 <img src="src/images/xxx.jpg" \>
+  </p>
 <br/>
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## Tecnologias
+# Tecnologias
 
 
 ### Languages
